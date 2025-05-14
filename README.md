@@ -14,9 +14,6 @@ The dataset contains vehicle-related features such as:
 * Fuel Consumption (City, Highway, Combined)
 * CO2 Emissions
 * Fuel Efficiency Score
-
-Source: Provided via Google Drive for the assignment.
-
 ---
 
 ## ⚖️ Libraries Used
